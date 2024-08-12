@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 import requests
-#Coded by JAYAKUMAR - JTECHCODE 2.O
-#Subscribe https://www.youtube.com/channel/UC_2ln7CZ7XjSpGDMgzsBjQA
+#Coded by Esakkimuthu - Test
+#redli
 app = Flask(__name__)
 
 @app.route('/')
